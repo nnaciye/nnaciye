@@ -7,6 +7,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://www.linkedin.com/in/naciye-yıldız-823901396" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" />
+  </a>
+  <a href="https://github.com/nnaciye" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" />
+  </a>
+</p>
+
+<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
