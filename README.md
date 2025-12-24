@@ -1,22 +1,49 @@
-<h1 align="center">Hi 👋, I'm Naciye YILDIZ</h1>
-<h3 align="center">Yönetim Bilişim Sistemleri 4. Sınıf Öğrencisi</h3>
+<h1 align="center">👩‍💻 Naciye YILDIZ</h1>
+<p align="center"><em> Yönetim Bilişim Sistemleri Öğrencisi </em></p>
 
-- I’m currently learning **Python, Android (Kotlin), OpenCV**
-
-- ⚡ Fun fact **When I get nervous, I make jokes**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/naciye-yıldız-823901396" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" />
-  </a>
-  <a href="https://github.com/nnaciye" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" />
-  </a>
+<p align="center">
+  <a href="mailto:naciyeyildiz2547@gmail.com"><img src="https://img.shields.io/badge/E--Posta-Gönder-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/naciye-yıldız-823901396/"><img src="https://img.shields.io/badge/LinkedIn-Profilim-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/nnaciye"><img src="https://img.shields.io/badge/GitHub-Profilim-181717?style=for-the-badge&logo=github" /></a>
 </p>
 
-<p align="left">
+---
+
+## 🚀 Hakkımda
+Merhaba! 👋  
+Ben **Naciye YILDIZ**, **Yönetim Bilişim Sistemleri** son sınıf öğrencisiyim.
+
+🔭 Ağırlıklı olarak **Mobil Uygulama Geliştirme (Kotlin)** ve **Python (Görüntü İşleme/OpenCV)** alanlarında projeler geliştiriyorum.  
+📱 Şu sıralar kapsamlı bir **alışkanlık takip uygulaması** ve **yüz tanıma sistemleri** üzerine çalışıyorum.  
+💻 Teknik becerilerimi **dijital içerik üretimi** ve **yapay zeka araçları** ile birleştirerek yaratıcı çözümler üretmeyi seviyorum.  
+📂 GitHub profilimde hem mobil hem de görüntü işleme alanındaki kodlarımı inceleyebilirsiniz.
+
+---
+
+## 🧠 Bildiğim Diller
+
+<h3 align="center">Kullandığım Diller ve Teknolojiler</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+
+  <br>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+## 🛠️ Teknik Yetenekler
+
+- **Programlama Dilleri:** Python, Kotlin, JavaScript, HTML5 & CSS3
+- **Geliştirme Alanları:** Android Uygulama Geliştirme (XML, Room DB), Görüntü İşleme (OpenCV)
+- **Araçlar & Editörler:** Git, GitHub, VS Code, Android Studio
+- **Web Geçmişi:** Lise eğitimimden gelen köklü Web Kodlama ve Tasarım temeli
+- **Diğer İlgi Alanları:** Dijital İçerik Üretimi, AI Araçları & Sosyal Medya Yönetimi
